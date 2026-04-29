@@ -1,0 +1,20 @@
+[
+    {
+        "name": "English",
+        "desc": "SSC English Previous Year Questions and Study Materials",
+        "path": "topics.json",
+        "urls": [
+            "https://cdn.jsdelivr.net/gh/itsct9/segq@master/",
+            "sscengpyq2551"
+        ]
+    },
+    {
+        "name": "General Studies",
+        "desc": "SSC GS Previous Year Questions and Study Materials",
+        "path": "topics.json",
+        "urls": [
+            "https://cdn.jsdelivr.net/gh/itsct9/sgsq@master/",
+            "sscgspyq4521"
+        ]
+    }
+]

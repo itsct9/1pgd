@@ -1,0 +1,10 @@
+[
+    {
+        "name": "General Studies",
+        "desc": "CSE General Studies Prelims Previous Year Questions.",
+        "path": "topics.json",
+        "urls": [
+            "https://cdn.jsdelivr.net/gh/itsct9/ucsq@master/"
+        ]
+    }
+]

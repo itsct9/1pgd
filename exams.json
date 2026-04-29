@@ -1,0 +1,12 @@
+[
+    {
+        "name": "SSC",
+        "desc": "SSC Previous Year Questions and Study Material",
+        "path": "exams/ssc/subjects.json"
+    },
+    {
+        "name": "UPSC CSE Prelims",
+        "desc": "UPSC CSE Prelims Previous Year Questions.",
+        "path": "exams/upsc/subjects.json"
+    }
+]
