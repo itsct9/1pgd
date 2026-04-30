@@ -16,5 +16,13 @@
             "https://cdn.jsdelivr.net/gh/itsct9/sgsq@master/",
             "sscgspyq4521"
         ]
+    },
+    {
+        "name": "Quantitative Aptitude (Math)",
+        "desc": "SSC Quantitative Aptitude (Math) Previous Year Questions and Study Materials",
+        "path": "topics.json",
+        "urls": [
+            "https://cdn.jsdelivr.net/gh/itsct9/scmth@master/"
+        ]
     }
 ]
