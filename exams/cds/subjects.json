@@ -1,0 +1,10 @@
+[
+    {
+        "name": "General Studies",
+        "desc": "CDS General Studies Previous Year Questions.",
+        "path": "topics.json",
+        "urls": [
+            "https://cdn.jsdelivr.net/gh/itsct9/ucdsq@master/"
+        ]
+    }
+]

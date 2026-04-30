@@ -8,5 +8,10 @@
         "name": "UPSC CSE Prelims",
         "desc": "UPSC CSE Prelims Previous Year Questions.",
         "path": "exams/upsc/subjects.json"
+    },
+    {
+        "name": "UPSC CDS",
+        "desc": "UPSC CDS Previous Year Questions.",
+        "path": "exams/cds/subjects.json"
     }
 ]
