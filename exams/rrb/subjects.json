@@ -1,0 +1,10 @@
+[
+    {
+        "name": "GK Topic Wise",
+        "desc": "RRB GK Topic Wise Previous Year Questions",
+        "path": "topics.json",
+        "urls": [
+            "https://cdn.jsdelivr.net/gh/itsct9/rrbq@master/"
+        ]
+    }
+]
