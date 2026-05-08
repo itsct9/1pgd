@@ -6,5 +6,13 @@
         "urls": [
             "https://cdn.jsdelivr.net/gh/itsct9/rrbq@master/"
         ]
+    },
+    {
+        "name": "Full Length",
+        "desc": "RRB Full Length Previous Year Questions",
+        "path": "topics.json",
+        "urls": [
+            "https://cdn.jsdelivr.net/gh/itsct9/rrbqfull@master/"
+        ]
     }
 ]
